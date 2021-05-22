@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sinaamjj
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning html,css,js
+- 📫 How to reach me Email:sina.amjjj@gmail.com
