@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html,css,bootstrap5,js
 - 📫 How to reach me Email:sina.amjjj@gmail.com
-- instagram<a>sina_amjj</a>
+- instagram:<a>sina_amjj</a>
